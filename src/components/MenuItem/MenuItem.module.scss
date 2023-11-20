@@ -1,0 +1,10 @@
+.menuItem {
+    background-color: gray;
+    border: 2px solid rgb(40, 40, 40);
+    transition: ease-out 0.3s;
+    &:hover {
+        background-color: orange;
+        cursor: pointer;
+        
+    }
+}
